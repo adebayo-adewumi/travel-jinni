@@ -10,7 +10,7 @@ const Home = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className="flex justify-between w-11/12 m-auto pb-1 pt-2 sm:block">
+      <div className="flex justify-between w-11/12 m-auto pb-1 pt-2">
         <div>
           <p className="text-sm">Remaining Days to my Trip</p>
 
